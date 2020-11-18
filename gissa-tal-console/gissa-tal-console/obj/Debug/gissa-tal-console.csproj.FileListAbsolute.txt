@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\gissa-tal-console\gissa-tal-console\bin\Debug\gissa-tal-console.exe.config
+C:\Users\Admin\source\repos\gissa-tal-console\gissa-tal-console\bin\Debug\gissa-tal-console.exe
+C:\Users\Admin\source\repos\gissa-tal-console\gissa-tal-console\bin\Debug\gissa-tal-console.pdb
+C:\Users\Admin\source\repos\gissa-tal-console\gissa-tal-console\obj\Debug\gissa-tal-console.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\gissa-tal-console\gissa-tal-console\obj\Debug\gissa-tal-console.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\gissa-tal-console\gissa-tal-console\obj\Debug\gissa-tal-console.exe
+C:\Users\Admin\source\repos\gissa-tal-console\gissa-tal-console\obj\Debug\gissa-tal-console.pdb
