@@ -1,0 +1,18 @@
+Upprätta en heltalvariabel kallad slumptal
+Generera ett slumptal och lägg det i heltalsvariabeln slumptal
+Upprätta en heltalvariabel kallad gissningar, ange ett start värde på 0
+Upprätta en heltalsvariabel kallad gissning
+Gör
+	Utmatning: "Gissa ett heltal mellan 1 och 100"
+	Inmatning: heltalsvariabeln gissning
+	Om gissningen är lika med slumptalet
+		Addera 1 till gissningar
+		Utmatning: "Talet du gissade var rätt"
+		Utmatning: "Det tog " utmatning av heltalsvarabeln gissningar " för dig att gissa rätt"
+	Annars om gissningen är större än slumptalet
+		Addera 1 till gissningar
+		Utmatning "Talet du gissade var större än slumptalet. Försök igen."
+	Annars om gissningen är mindre än slumptalet
+		Addera 1 till gissningar
+		Utmatning "Talet du gissade var mindre än slumptalet. Försök igen."
+Medans gissning inte är lika med slumptal
