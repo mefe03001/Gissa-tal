@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\gissa-tal-windows-forms\gissa-tal-windows-forms\obj\Debug\gissa-tal-windows-forms.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\gissa-tal-windows-forms\gissa-tal-windows-forms\obj\Debug\gissa_tal_windows_forms.Form1.resources
+C:\Users\Admin\source\repos\gissa-tal-windows-forms\gissa-tal-windows-forms\obj\Debug\gissa_tal_windows_forms.Properties.Resources.resources
+C:\Users\Admin\source\repos\gissa-tal-windows-forms\gissa-tal-windows-forms\obj\Debug\gissa-tal-windows-forms.csproj.GenerateResource.cache
+C:\Users\Admin\source\repos\gissa-tal-windows-forms\gissa-tal-windows-forms\obj\Debug\gissa-tal-windows-forms.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\gissa-tal-windows-forms\gissa-tal-windows-forms\bin\Debug\gissa-tal-windows-forms.exe.config
+C:\Users\Admin\source\repos\gissa-tal-windows-forms\gissa-tal-windows-forms\bin\Debug\gissa-tal-windows-forms.exe
+C:\Users\Admin\source\repos\gissa-tal-windows-forms\gissa-tal-windows-forms\bin\Debug\gissa-tal-windows-forms.pdb
+C:\Users\Admin\source\repos\gissa-tal-windows-forms\gissa-tal-windows-forms\obj\Debug\gissa-tal-windows-forms.exe
+C:\Users\Admin\source\repos\gissa-tal-windows-forms\gissa-tal-windows-forms\obj\Debug\gissa-tal-windows-forms.pdb
